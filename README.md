@@ -20,14 +20,18 @@ Coursera Bitcoin and Crytocurrency Course [[link]](https://www.coursera.org/lear
 
 ### Whitepapers
 Bitcoin Whitepaper [[pdf]](https://bitcoin.org/bitcoin.pdf)
+
 Ethereum Whitepaper [[link]](https://github.com/ethereum/wiki/wiki/White-Paper)
+
 Ethereum Yellowpaper [[pdf]](https://ethereum.github.io/yellowpaper/paper.pdf)
+
 <br>
 
 
 ##  More Technical Resources
 <br>
 ### Proof of Stake
+
 https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ
 
 
@@ -55,9 +59,13 @@ Generating an Ethereum Wallet[[link]](https://kobl.one/blog/create-full-ethereum
 
 ## Projects
 Decentralized AI & Homomorphic Encryption [[link]](https://github.com/OpenMined)
+
 Truffle Ethereum Development Framework [[link]](https://github.com/trufflesuite/truffle)
+
 OpenZeppelin Secure Smart Contract Framework [[link]](https://openzeppelin.org/)
+
 List of Many Ongoing Ethereum Projects in Different Phases [[link]](https://dapps.ethercasts.com/)
+
 
 
 
