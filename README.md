@@ -8,15 +8,24 @@ Andreas Antonopoulos' Bitcoin Book [[link]](https://github.com/bitcoinbook/bitco
 Princeton Bitcoin Book [[pdf]](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf)
 
 
-
-
 <br><br>
 
 ### MOOCs
 ---------
 Coursera Bitcoin and Crytocurrency Course [[link]](https://www.coursera.org/learn/cryptocurrency/)
 
+University of Nocosia Digital Currency MOOC [[link]](https://digitalcurrency.unic.ac.cy/)
+
 <br><br>
+
+### Videos
+----------
+Khan Academy Bitcoin Introduction [[link]](https://www.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin/v/bitcoin-what-is-it)
+
+Andreas Antonopoulos' Introduction to Bitcoin (Also the author of the Bitcoin Book & a useful YouTube channel) [[link]](https://www.youtube.com/watch?v=l1si5ZWLgy0)
+
+<br>
+<br>
 
 ### Whitepapers
 Bitcoin Whitepaper [[pdf]](https://bitcoin.org/bitcoin.pdf)
@@ -48,6 +57,7 @@ https://github.com/ethereum/wiki/wiki/Sharding-FAQ
 
 ### Encryption and Hashing Algorithms
 https://github.com/ethereum/wiki/wiki/Ethash
+Elliptic Curve Digital Signature Algorithm (ECDSA) [[link]](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm)
 
 ### Decentralized Apps (Dapps)
 
@@ -74,3 +84,4 @@ List of Many Ongoing Ethereum Projects in Different Phases [[link]](https://dapp
 ## Other Good Places to Learn
 https://github.com/ethereum/wiki/wiki/Problems
 https://github.com/ethereum/wiki
+https://en.bitcoin.it/wiki/Main_Page
