@@ -39,6 +39,7 @@ Ethereum Yellowpaper [[pdf]](https://ethereum.github.io/yellowpaper/paper.pdf)
 
 ##  More Technical Resources
 <br>
+
 ### Proof of Stake
 
 Ethereum Proof of Stake FAQ [[link]](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
@@ -60,6 +61,7 @@ Bitcoin Magazine: Is Bitcoin Anonymous? (intro) [[link]](https://bitcoinmagazine
 ### Encryption and Hashing Algorithms
 
 Ethash POW Algorithm [[link]](https://github.com/ethereum/wiki/wiki/Ethash)
+
 Elliptic Curve Digital Signature Algorithm (ECDSA) [[link]](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm)
 
 ### Decentralized Apps (Dapps)
@@ -83,7 +85,7 @@ List of Many Ongoing Ethereum Projects in Different Phases [[link]](https://dapp
 
 
 
-
+<br>
 
 
 ## Other Good Places to Learn
