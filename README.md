@@ -45,6 +45,7 @@ Ethereum Proof of Stake FAQ [[link]](https://github.com/ethereum/wiki/wiki/Proof
 
 
 ### Sharding
+
 Ethereum Sharding FAQ [[link]](https://github.com/ethereum/wiki/wiki/Sharding-FAQ)
 
 ### Atomic Swaps or Lightning Transactions
@@ -57,10 +58,12 @@ Ethereum Sharding FAQ [[link]](https://github.com/ethereum/wiki/wiki/Sharding-FA
 Bitcoin Magazine: Is Bitcoin Anonymous? (intro) [[link]](https://bitcoinmagazine.com/guides/bitcoin-anonymous/)
 
 ### Encryption and Hashing Algorithms
+
 Ethash POW Algorithm [[link]](https://github.com/ethereum/wiki/wiki/Ethash)
 Elliptic Curve Digital Signature Algorithm (ECDSA) [[link]](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm)
 
 ### Decentralized Apps (Dapps)
+
 
 ### Wallets
 Generating an Ethereum Wallet[[link]](https://kobl.one/blog/create-full-ethereum-keypair-and-address/)
@@ -69,6 +72,7 @@ Generating an Ethereum Wallet[[link]](https://kobl.one/blog/create-full-ethereum
 <br><br>
 
 ## Projects
+
 Decentralized AI & Homomorphic Encryption [[link]](https://github.com/OpenMined)
 
 Truffle Ethereum Development Framework [[link]](https://github.com/trufflesuite/truffle)
@@ -90,7 +94,7 @@ Bitcoin Developer Docs [[link]](https://bitcoin.org/en/developer-documentation)
 
 Bitcoin Magazine Introductory Guides [[link]](https://bitcoinmagazine.com/guides/)
 Includes:
-- Waht is Bitcoin?
+- What is Bitcoin?
 - What is Blockchain?
 - What makes Bitcoin Valuable?
 - What are Bitcoin Wallets?
