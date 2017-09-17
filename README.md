@@ -41,22 +41,23 @@ Ethereum Yellowpaper [[pdf]](https://ethereum.github.io/yellowpaper/paper.pdf)
 <br>
 ### Proof of Stake
 
-https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ
+Ethereum Proof of Stake FAQ [[link]](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
 
 
 ### Sharding
-https://github.com/ethereum/wiki/wiki/Sharding-FAQ
+Ethereum Sharding FAQ [[link]](https://github.com/ethereum/wiki/wiki/Sharding-FAQ)
 
-### Atomic Swaps
+### Atomic Swaps or Lightning Transactions
 
-### Lightning Transactions
 
 ### Side Chains
 
+
 ### Anonymity
+Bitcoin Magazine: Is Bitcoin Anonymous? (intro) [[link]](https://bitcoinmagazine.com/guides/bitcoin-anonymous/)
 
 ### Encryption and Hashing Algorithms
-https://github.com/ethereum/wiki/wiki/Ethash
+Ethash POW Algorithm [[link]](https://github.com/ethereum/wiki/wiki/Ethash)
 Elliptic Curve Digital Signature Algorithm (ECDSA) [[link]](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm)
 
 ### Decentralized Apps (Dapps)
@@ -82,6 +83,21 @@ List of Many Ongoing Ethereum Projects in Different Phases [[link]](https://dapp
 
 
 ## Other Good Places to Learn
-https://github.com/ethereum/wiki/wiki/Problems
-https://github.com/ethereum/wiki
-https://en.bitcoin.it/wiki/Main_Page
+
+Bitcoin Wiki [[link]](https://en.bitcoin.it/wiki/Main_Page)
+
+Bitcoin Developer Docs [[link]](https://bitcoin.org/en/developer-documentation)
+
+Bitcoin Magazine Introductory Guides [[link]](https://bitcoinmagazine.com/guides/)
+Includes:
+- Waht is Bitcoin?
+- What is Blockchain?
+- What makes Bitcoin Valuable?
+- What are Bitcoin Wallets?
+- And several other introductions to digital currency related topics.
+
+Litecoin Wiki [[link]](https://litecoin.info/)
+
+Ethereum Wiki on Problems of Cryptocurrencies [[limk]](https://github.com/ethereum/wiki/wiki/Problems)
+
+The Ethereum Wiki [[link]](https://github.com/ethereum/wiki)
