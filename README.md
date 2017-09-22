@@ -40,6 +40,12 @@ Ethereum Yellowpaper [[pdf]](https://ethereum.github.io/yellowpaper/paper.pdf)
 ##  More Technical Resources
 <br>
 
+### Smart Contracts
+
+The Hitchhikers Guide to Smart Contracts [[link]](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
+
+A 101 Noob Intro to Programming Smart Contracts on Ethereum [[link]](https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4)
+
 ### Proof of Stake
 
 Ethereum Proof of Stake FAQ [[link]](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
@@ -104,6 +110,6 @@ Includes:
 
 Litecoin Wiki [[link]](https://litecoin.info/)
 
-Ethereum Wiki on Problems of Cryptocurrencies [[limk]](https://github.com/ethereum/wiki/wiki/Problems)
+Ethereum Wiki on Problems of Cryptocurrencies [[link]](https://github.com/ethereum/wiki/wiki/Problems)
 
 The Ethereum Wiki [[link]](https://github.com/ethereum/wiki)
