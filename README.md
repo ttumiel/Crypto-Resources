@@ -57,6 +57,8 @@ Ethereum Sharding FAQ [[link]](https://github.com/ethereum/wiki/wiki/Sharding-FA
 
 ### Atomic Swaps or Lightning Transactions
 
+atomic swaps article [[link]](lol.lol)
+
 
 ### Side Chains
 
