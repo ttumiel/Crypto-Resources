@@ -72,6 +72,7 @@ Elliptic Curve Digital Signature Algorithm (ECDSA) [[link]](https://en.wikipedia
 
 ### Decentralized Apps (Dapps)
 
+Good Smart Contract Safety Practices Ethereum Wiki [[link]](https://github.com/ethereum/wiki/wiki/Safety)
 
 ### Wallets
 Generating an Ethereum Wallet[[link]](https://kobl.one/blog/create-full-ethereum-keypair-and-address/)
