@@ -90,6 +90,7 @@ OpenZeppelin Secure Smart Contract Framework [[link]](https://openzeppelin.org/)
 
 List of Many Ongoing Ethereum Projects in Different Phases [[link]](https://dapps.ethercasts.com/)
 
+Link between Bitcoin and Ethereum - BTC Relay [[link]](http://btcrelay.org/)
 
 
 <br>
