@@ -57,11 +57,12 @@ Ethereum Sharding FAQ [[link]](https://github.com/ethereum/wiki/wiki/Sharding-FA
 
 ### Atomic Swaps or Lightning Transactions
 
-atomic swaps article [[link]](lol.lol)
+What are atomic swaps and why are they important? [[link]](https://blockonomi.com/atomic-swaps/)
 
 
 ### Side Chains
 
+Some of the technologies that could be added to Bitcoin: [[link]](https://blockstream.com/technology/)
 
 ### Anonymity
 Bitcoin Magazine: Is Bitcoin Anonymous? (intro) [[link]](https://bitcoinmagazine.com/guides/bitcoin-anonymous/)
